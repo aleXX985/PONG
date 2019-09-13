@@ -1,3 +1,3 @@
 # PONG
-The PONG game
+Simple implementation of the famous PONG game
 
